@@ -1,4 +1,4 @@
-hello hello
+hello dur
 good morning
 good afternoon
-
+chicken dinner
